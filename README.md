@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Sentinel (SIEM)</b>
-  - [Azure Sentinel (SIEM)](https://github.com/sdasr7/Azure-Sentinel-SIEM-)
+  - [Azure Sentinel (SIEM)](https://github.com/sdasr7/Azure-Sentinel)
   <p>Experience in Security Detection using Azure Sentinel (Microsoft's Cloud SIEM) for the purpose of ingesting custom logs from windows event viewer and displaying global attack data, along with its physical location and magnitude, 
     on a world map according to the physical location and the magnitude of the attack as correlated with Azure Sentinel<p>
   
