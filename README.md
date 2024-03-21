@@ -9,8 +9,7 @@
   
 - <b>Vulnerability Management With Nessus</b>
   - [Vulnerability Management With Nessus](https://github.com/sdasr7/-Nessus-Vulnerability-Management-)
-  <p>The task consisted of installing and configuring Nessus Essentials in order to take a look at Credential Vulnerabilities on Windows 8 Hosts. A variety of vulnerability assessments and remediation tasks were performed with Nessus 
-    as part of the vulnerability assessment process.</p>
+  <p>Installed and Configured Nessus Essentials to perform Credential Vulnerability scans against Windows 8 Host. Conducted Vulnerability Assessments with Nessus and also remediated few vulnerabilities.</p>
   
 - <b>Active Directory</b>
   - [Active Directory](https://github.com/sdasr7/Active-Directory)
@@ -36,10 +35,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://x.com/Supriyo_Das30?t=utcbkMi_RHJ22RK5uokFtg&s=03
-[linkedin]: https://www.linkedin.com/in/supriyo-das-eiu/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[linkedin]: https://www.linkedin.com/in/supriyod/
 
 Here are some ideas to get you started:
 
