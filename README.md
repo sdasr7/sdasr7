@@ -27,7 +27,7 @@
   - [Google's Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/K2E997XGY849)
   - [FEMA's Introduction To Incident Command System ICS-100](https://drive.google.com/file/d/1PfcQaUnBgWlqftDlg1GlHeWrOPVyThp-/view?usp=drive_link)
   - [Qualys's Vulnerability Management Detection & Response ](https://drive.google.com/file/d/11GW01vNZiM_-oevW8zDQzZIM1sOTkasx/view?usp=drive_link)
-  - [Cybrar's Network Fundamentals](https://drive.google.com/file/d/1VlugUjPkbx-pxfki3nl_3qhY_hmuF4OZ/view?usp=drive_link)
+  - [Cybrary's Network Fundamentals](https://drive.google.com/file/d/1VlugUjPkbx-pxfki3nl_3qhY_hmuF4OZ/view?usp=drive_link)
 
 <h2> 🤳 Connect with me:</h2>
 
