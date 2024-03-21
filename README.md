@@ -17,7 +17,7 @@
     service as part of the implementation</p>
 
 - <b>Cybersecurity Basic Home Lab (Sandbox)</b>
-  - [Cybersecurity Basic Home Lab](https://github.com/Dilpreet09/Cyber-Security-Basic-Home-Lab-)
+  - [Cybersecurity Basic Home Lab](https://github.com/sdasr7/Cyber-Security-Basic-Home-Lab-)
   <p>I had the pleasure of setting up a secure environment using Windows 10 and Kali Linux on an internal network, as part of this fascinating Home Lab project, where I embarked on a journey of virtualization and exploration of the features of virtualization and Linux. In order to demonstrate the dangers of deceptive attachments, I decided to create a deceptive Trojan file, so that you are aware of the risks associated with deceptive attachments. Further to this, in order to monitor and analyze potential threats, I used tools such as Splunk and Sysmon in order to shed light on the effectiveness of security tools in providing a safe digital environment. Lastly, I would like to point out that the success of the remote connection through msfconsole highlights the importance of network security and the need for constant vigilance against malicious actors in the network. In a personalized Home Lab environment, this project represents the convergence of curiosity, innovation, and digital security, all combined to create an exciting and immersive experience.</p>
  
 
@@ -31,20 +31,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" />][twitter] 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SupriyoDas | Twitter" width="22px" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" />][twitter] 
+[<img align="left" alt="SupriyoDas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://x.com/Supriyo_Das30?t=utcbkMi_RHJ22RK5uokFtg&s=03
 [linkedin]: https://www.linkedin.com/in/supriyod/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
