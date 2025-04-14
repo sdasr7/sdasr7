@@ -29,7 +29,4 @@
   - [Qualys's Vulnerability Management Detection & Response ](https://drive.google.com/file/d/11GW01vNZiM_-oevW8zDQzZIM1sOTkasx/view?usp=drive_link)
   - [Cybrary's Network Fundamentals](https://drive.google.com/file/d/1VlugUjPkbx-pxfki3nl_3qhY_hmuF4OZ/view?usp=drive_link)
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="SupriyoDas | Twitter" width="22px" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" />][twitter] 
-[<img align="left" alt="SupriyoDas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
